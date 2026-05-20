@@ -1,4 +1,4 @@
-| <img src="https://github.com/NoobLordv/NoobLordv.github.io/blob/main/profile-circle.png?raw=true" width="120"/>    | Noobie Helper Discord Bot        |
+| <img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width="120"/>    | Noobie Helper Discord Bot        |
 |-----|:--------------------:|
 ## The discord bot to moderate easily
 ###### Made by NoobLordv
@@ -16,5 +16,10 @@
 > The help command it's only visible to the user who used /help
 >> The bot is under development    
 >> But i think that in this year i can finish the bot
->> Of curse i am gonna update the bot sometimes 
+>> Of curse i am gonna update the bot sometimes
+---
+
+<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" widht ="5">
+_The creator is [NoobLordv](https://nooblordv.github.io/)_
+
 
