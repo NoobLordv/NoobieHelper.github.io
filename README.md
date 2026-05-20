@@ -1,5 +1,6 @@
 | <img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width="120"/>    | Noobie Helper Discord Bot        |
 |-----|:--------------------:|
+|||
 ## The discord bot to moderate easily
 ###### Made by NoobLordv
 ---
@@ -19,7 +20,7 @@
 >> Of curse i am gonna update the bot sometimes
 ---
 
-<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" widht ="5">
-_The creator is [NoobLordv](https://nooblordv.github.io/)_
+<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width ="50">
+<div style="text-align: center"> _The-creator-is-[NoobLordv](https://nooblordv.github.io/)_ </div>
 
 
