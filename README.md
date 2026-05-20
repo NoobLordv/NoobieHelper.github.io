@@ -1,11 +1,5 @@
-|      BOT      |     Name      |
-| ------------- |:-------------:|
-|<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width ="50">|   Noobie Helper   |
-## The discord bot to moderate easily
+# Noobie Helper
 ###### Made by NoobLordv
----
-
-### The bot was made with ruby
 ---
 
 ### About the bot
