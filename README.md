@@ -20,7 +20,10 @@
 >> Of curse i am gonna update the bot sometimes
 ---
 
-<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width ="50">
-<div style="text-align: center"> _The-creator-is-[NoobLordv](https://nooblordv.github.io/)_ </div>
+ Noobie Helper  | Made by |
+| ------------- |:-------------:|
+|   <img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width ="50">   |   The creator is [NoobLordv](https://nooblordv.github.io/)
+   |
+
 
 
