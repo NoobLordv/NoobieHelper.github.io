@@ -2,17 +2,33 @@
 
 A powerful and easy-to-use Discord bot designed to enhance your server with custom commands, moderation tools, and fun features.
 
-## Table of Contents
+# My Project
 
-- [Features](##features)
-- [Installation](##¿howicanaddthebot?)
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Commands](#commands)
-- [Development](#development)
 - [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
+
+## Introduction
+
+### Noobie Helper
+###### By Nooblordv
+> This bot is made to make moderate more easy to users   
+> Its very simple to use and add to your server
+
+## Installation
+go to 
+
+## Usage
+> First of all do /help       
+> you will saw all the commands      
+> make sure to use the prefix before every command, except slash commands like /help      
+> example
+```nKick```
+
+## Contributing
+Contributing guidelines here...
 
 ## Features
 
