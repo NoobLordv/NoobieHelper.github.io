@@ -18,7 +18,7 @@ A powerful and easy-to-use Discord bot designed to enhance your server with cust
 > Its very simple to use and add to your server
 
 ## Installation
-go to 
+go to this [link](https://discord.com/oauth2/authorize?client_id=1505926688914276362&permissions=8&integration_type=0&scope=bot+applications.commands)
 
 ## Usage
 > First of all do /help       
@@ -26,6 +26,12 @@ go to
 > make sure to use the prefix before every command, except slash commands like /help      
 > example
 ```nKick```
+>> **Slash commands**
+>> ```
+>> /profile (show your profile)
+>> /help ( see all the commands )
+> <img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/help2.png?raw=true">      
+---
 
 ## Contributing
 Contributing guidelines here...
@@ -36,31 +42,10 @@ Contributing guidelines here...
 - 🛡️ Moderation tools (kick, ban, mute, warn)
 - 🎮 Fun and entertainment commands
 
-## ¿How i can add the bot?
- * go to the [discord server](https://discord.gg/JuPcBzQMj) of the bot    
- * click the bot profile
- * <img src="">
-
 # Noobie Helper
 ###### Made by NoobLordv
+<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width="60">
 ---
-
-### About the bot
-
->> Bot has 13 commands for now, that uses the prefix "n"   
->> Bot has 1 slash commands for now, help command, that shows all the commands
-> <img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/help.png?raw=true" widht="120"/>
->
-
----
-> The help command it's only visible to the user who used /help
->> The bot is under development    
->> But i think that in this year i can finish the bot   
->> Of curse i am gonna update the bot sometimes
----
-
-| Noobie Helper |   Made by     |
-| ------------- |:-------------:|
 |<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width ="50">| The creator is [NoobLordv](https://nooblordv.github.io/)|
 
 
