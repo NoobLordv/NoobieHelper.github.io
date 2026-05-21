@@ -1,3 +1,30 @@
+# Discord Bot
+
+A powerful and easy-to-use Discord bot designed to enhance your server with custom commands, moderation tools, and fun features.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Commands](#commands)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+
+## Features
+
+- 🤖 Easy-to-use command system
+- 🛡️ Moderation tools (kick, ban, mute, warn)
+- 🎮 Fun and entertainment commands
+
+## ¿How i can add the bot?
+ * go to the [discord server](https://discord.gg/JuPcBzQMj) of the bot    
+ * click the bot profile
+ * <img src="">
+
 # Noobie Helper
 ###### Made by NoobLordv
 ---
