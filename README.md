@@ -4,8 +4,8 @@ A powerful and easy-to-use Discord bot designed to enhance your server with cust
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
+- [Features](##features)
+- [Installation](##¿howicanaddthebot?)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Commands](#commands)
