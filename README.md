@@ -43,10 +43,6 @@ Contributing guidelines here...
 - 🎮 Fun and entertainment commands
 
 # Noobie Helper
-###### Made by NoobLordv
-<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width="60">
----
-|<img src="https://github.com/NoobLordv/NoobieHelper.github.io/blob/main/giphy.gif?raw=true" width ="50">| The creator is [NoobLordv](https://nooblordv.github.io/)|
-
+###### Made by [NoobLordv](https://nooblordv.github.io/)
 
 
